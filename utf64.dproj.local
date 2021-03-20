@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/05 09:49:09.000.070,=C:\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 14:33:28.000.502,C:\DPR\Unit1.dfm=C:\Users\csilvestres\Documents\Delphi\PruebaUTF64\frmCodes.dfm</Transaction>
+    <Transaction>2021/02/05 14:33:28.000.502,C:\DPR\Unit1.pas=C:\Users\csilvestres\Documents\Delphi\PruebaUTF64\frmCodes.pas</Transaction>
+    <Transaction>2021/02/05 14:33:40.000.402,C:\DPR\Project1.dproj=C:\Users\csilvestres\Documents\Delphi\PruebaUTF64\utf64.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
